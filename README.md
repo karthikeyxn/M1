@@ -1,6 +1,6 @@
 
-# NAME:S.DHAMINI
-## REGISTER NUMBER:212224040064
+# NAME:karthikeyan
+## REGISTER NUMBER:212223040088
 
 # EX-01-Datatypes-Operators
 ## AIM:
